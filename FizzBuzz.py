@@ -13,3 +13,4 @@ def fizz_buzz(num):
 
 fizz_buzz(15)
 fizz_buzz(5)
+
